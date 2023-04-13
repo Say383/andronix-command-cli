@@ -23,7 +23,7 @@
     "axios": "^0.20.0",
     "chalk": "^4.1.0",
     "commander": "^6.0.0",
-    "firebase": "^7.19.0",
+    "firebase": "^9.19.1",
     "inquirer": "^7.3.3",
     "mkdirp": "^1.0.4",
     "open": "^7.2.0",
